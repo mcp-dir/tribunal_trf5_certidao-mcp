@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/tribunal_trf5_certidao-mcp",
+  "title": "Tribunal TRF5: Certidão Negativa Cível e Criminal",
+  "description": "Tribunal TRF5: Certificate Negativa Cível e Criminal, official-source lookup. Platform-hosted, pay p",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/tribunal_trf5_certidao-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_tribunal_trf5_certidao"
+    }
+  ]
+}
